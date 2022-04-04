@@ -1,0 +1,26 @@
+{
+  "binaryFormat": "version(char), size(unsigned int), heightMap(heightMapSize * heightMapItemSize), layerMap(layerMapSize * layerMapItemSize), layerTextureMap(layerMapSize * layerMapItemSize), materialNames",
+  "datafile": "/levels/Utah2/theTerrain.ter",
+  "heightMapItemSize": 2,
+  "heightMapSize": 4194304,
+  "heightmapImage": "/levels/Utah2/theTerrain.terrainheightmap.png",
+  "layerMapItemSize": 1,
+  "layerMapSize": 4194304,
+  "materials": [
+    "groundmodel_asphalt1",
+    "GRAVEL",
+    "dirt_loose_dusty",
+    "dirt_loose",
+    "Grass",
+    "Grass2",
+    "Grass3",
+    "dirt_grass",
+    "Rock",
+    "dirt_rocky_large",
+    "dirt_rocky",
+    "dirt_sandy",
+    "sand"
+  ],
+  "size": 2048,
+  "version": 8
+}

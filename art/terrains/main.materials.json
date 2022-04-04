@@ -1,0 +1,1084 @@
+{
+  "GRAVEL-1d2009d8-d8af-4a4b-83ef-5bf13706becb": {
+    "name": "GRAVEL-1d2009d8-d8af-4a4b-83ef-5bf13706becb",
+    "internalName": "GRAVEL",
+    "class": "TerrainMaterial",
+    "persistentId": "1d2009d8-d8af-4a4b-83ef-5bf13706becb",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_gravels_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_ao.png",
+    "aoMacroTexSize": 10,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_gravels_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.1,
+      0.25
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_b.png",
+    "baseColorMacroTexSize": 10,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "GRAVEL",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_gravels_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_h.png",
+    "heightMacroTexSize": 10,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.4,
+      0.15
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_gravels_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.1,
+      0.7
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_nm.png",
+    "normalMacroTexSize": 10,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.35,
+      0.35
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_gravels_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.5
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_r.png",
+    "roughnessMacroTexSize": 10
+  },
+  "Grass-9ee14ba8-c41c-42fd-a4e9-56b93dbb4e6f": {
+    "name": "Grass-9ee14ba8-c41c-42fd-a4e9-56b93dbb4e6f",
+    "internalName": "Grass",
+    "class": "TerrainMaterial",
+    "persistentId": "9ee14ba8-c41c-42fd-a4e9-56b93dbb4e6f",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_vegetation_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_ao.png",
+    "aoMacroTexSize": 80,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.35,
+      0.35
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_vegetation_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.1,
+      0.15
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_b.png",
+    "baseColorMacroTexSize": 80,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "GRASS",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_vegetation_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_h.png",
+    "heightMacroTexSize": 80,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.6,
+      0
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_vegetation_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.4,
+      0.4
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_nm.png",
+    "normalMacroTexSize": 80,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_vegetation_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.5
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_r.png",
+    "roughnessMacroTexSize": 80
+  },
+  "Grass2-9dde8edb-be4e-4bde-8852-6f8d04129a7e": {
+    "name": "Grass2-9dde8edb-be4e-4bde-8852-6f8d04129a7e",
+    "internalName": "Grass2",
+    "class": "TerrainMaterial",
+    "persistentId": "9dde8edb-be4e-4bde-8852-6f8d04129a7e",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grassy_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_ao.png",
+    "aoMacroTexSize": 80,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.35,
+      0.35
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grassy_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.1,
+      0.2
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_b.png",
+    "baseColorMacroTexSize": 80,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "GRASS2",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grassy_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_h.png",
+    "heightMacroTexSize": 80,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.7,
+      0.15
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grassy_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.5,
+      0.5
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_nm.png",
+    "normalMacroTexSize": 80,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grassy_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.5
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_r.png",
+    "roughnessMacroTexSize": 80
+  },
+  "Grass3-ea68aa0d-efad-45a1-896e-590f41f8fd58": {
+    "name": "Grass3-ea68aa0d-efad-45a1-896e-590f41f8fd58",
+    "internalName": "Grass3",
+    "class": "TerrainMaterial",
+    "persistentId": "ea68aa0d-efad-45a1-896e-590f41f8fd58",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_ao.png",
+    "aoMacroTexSize": 80,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.35,
+      0.35
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.1,
+      0.15
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_b.png",
+    "baseColorMacroTexSize": 80,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "GRASS3",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_h.png",
+    "heightMacroTexSize": 80,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.6,
+      0.15
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.5,
+      0.5
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_nm.png",
+    "normalMacroTexSize": 80,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.2,
+      0.8
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_r.png",
+    "roughnessMacroTexSize": 80
+  },
+  "Rock-4fefdb78-94ad-4710-ba68-312bbc116415": {
+    "name": "Rock-4fefdb78-94ad-4710-ba68-312bbc116415",
+    "internalName": "Rock",
+    "class": "TerrainMaterial",
+    "persistentId": "4fefdb78-94ad-4710-ba68-312bbc116415",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailStrength": [
+      1,
+      1
+    ],
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_ao.png",
+    "aoMacroTexSize": 80,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.2,
+      0.2
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.07,
+      0.25
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_b.png",
+    "baseColorMacroTexSize": 80,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "ROCK",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_h.png",
+    "heightMacroTexSize": 80,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.7,
+      0.3
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.5,
+      0.6
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_nm.png",
+    "normalMacroTexSize": 80,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.8
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_r.png",
+    "roughnessMacroTexSize": 80
+  },
+  "Utah2TerrainTextureSet": {
+    "name": "Utah2TerrainTextureSet",
+    "class": "TerrainMaterialTextureSet",
+    "persistentId": "ac348aaa-081f-4d49-92db-d79fdfad5f78",
+    "baseTexSize": [
+      2048,
+      2048
+    ],
+    "detailTexSize": [
+      1024,
+      1024
+    ],
+    "macroTexSize": [
+      1024,
+      1024
+    ]
+  },
+  "dirt_grass-2e645206-0dd3-4f32-aaca-64d80185cff2": {
+    "name": "dirt_grass-2e645206-0dd3-4f32-aaca-64d80185cff2",
+    "internalName": "dirt_grass",
+    "class": "TerrainMaterial",
+    "persistentId": "2e645206-0dd3-4f32-aaca-64d80185cff2",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_ao.png",
+    "aoMacroTexSize": 80,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.25,
+      0.25
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.07,
+      0.25
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_b.png",
+    "baseColorMacroTexSize": 80,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "DIRT_GRASS",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_h.png",
+    "heightMacroTexSize": 80,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.7,
+      0.15
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.5,
+      0.6
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_nm.png",
+    "normalMacroTexSize": 80,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_dry_grass_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.5
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_r.png",
+    "roughnessMacroTexSize": 80
+  },
+  "dirt_loose-0da3bd79-dbda-4730-87da-49b8fa43e4de": {
+    "name": "dirt_loose-0da3bd79-dbda-4730-87da-49b8fa43e4de",
+    "internalName": "dirt_loose",
+    "class": "TerrainMaterial",
+    "persistentId": "0da3bd79-dbda-4730-87da-49b8fa43e4de",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_ao.png",
+    "aoMacroTexSize": 40,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.25,
+      0.25
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.1,
+      0.25
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_b.png",
+    "baseColorMacroTexSize": 40,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "DIRT_LOOSE",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_h.png",
+    "heightMacroTexSize": 40,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.6,
+      0.3
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.5,
+      0.4
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_nm.png",
+    "normalMacroTexSize": 40,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.5
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_r.png",
+    "roughnessMacroTexSize": 40
+  },
+  "dirt_loose_dusty-376501ed-8dba-4168-b742-ab692881f00e": {
+    "name": "dirt_loose_dusty-376501ed-8dba-4168-b742-ab692881f00e",
+    "internalName": "dirt_loose_dusty",
+    "class": "TerrainMaterial",
+    "persistentId": "376501ed-8dba-4168-b742-ab692881f00e",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_dusty_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_ao.png",
+    "aoMacroTexSize": 40,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.25,
+      0.25
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_dusty_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.1,
+      0.15
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_b.png",
+    "baseColorMacroTexSize": 40,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "DIRT_LOOSE_DUSTY",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_dusty_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_h.png",
+    "heightMacroTexSize": 40,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.4,
+      0
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_dusty_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.4,
+      0.3
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_nm.png",
+    "normalMacroTexSize": 40,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_loose_dusty_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.2,
+      0.8
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_r.png",
+    "roughnessMacroTexSize": 40
+  },
+  "dirt_rocky-84da1e4a-c47b-45b2-8d20-0864a8491fa8": {
+    "name": "dirt_rocky-84da1e4a-c47b-45b2-8d20-0864a8491fa8",
+    "internalName": "dirt_rocky",
+    "class": "TerrainMaterial",
+    "persistentId": "84da1e4a-c47b-45b2-8d20-0864a8491fa8",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocky_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_ao.png",
+    "aoMacroTexSize": 50,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.25,
+      0.25
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocky_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.07,
+      0.25
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_b.png",
+    "baseColorMacroTexSize": 50,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "DIRT_ROCKY",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocky_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_h.png",
+    "heightMacroTexSize": 50,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.7,
+      0.15
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocky_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.5,
+      0.6
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_nm.png",
+    "normalMacroTexSize": 50,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocky_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.8
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_r.png",
+    "roughnessMacroTexSize": 50
+  },
+  "dirt_rocky_large-0f4832ca-83e9-46a0-8d4c-fad4cf8d2484": {
+    "name": "dirt_rocky_large-0f4832ca-83e9-46a0-8d4c-fad4cf8d2484",
+    "internalName": "dirt_rocky_large",
+    "class": "TerrainMaterial",
+    "persistentId": "0f4832ca-83e9-46a0-8d4c-fad4cf8d2484",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailStrength": [
+      1,
+      1
+    ],
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_ao.png",
+    "aoMacroTexSize": 70,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.2,
+      0.2
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.07,
+      0.25
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_b.png",
+    "baseColorMacroTexSize": 70,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "DIRT_ROCKY_LARGE",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_h.png",
+    "heightMacroTexSize": 70,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.7,
+      0.3
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.5,
+      0.6
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_nm.png",
+    "normalMacroTexSize": 70,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_rocks_large_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.8
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_rocky_r.png",
+    "roughnessMacroTexSize": 70
+  },
+  "dirt_sandy-c54ad9c9-5b4b-4fe7-8656-b0632fa13ad7": {
+    "name": "dirt_sandy-c54ad9c9-5b4b-4fe7-8656-b0632fa13ad7",
+    "internalName": "dirt_sandy",
+    "class": "TerrainMaterial",
+    "persistentId": "c54ad9c9-5b4b-4fe7-8656-b0632fa13ad7",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailStrength": [
+      1,
+      1
+    ],
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_dirt_sandy_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_ao.png",
+    "aoMacroTexSize": 60,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.25,
+      0.25
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_dirt_sandy_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.03,
+      0.1
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_b.png",
+    "baseColorMacroTexSize": 60,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "DIRT_SANDY",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_dirt_sandy_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_h.png",
+    "heightMacroTexSize": 60,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.6,
+      0
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_dirt_sandy_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.5,
+      0.4
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_nm.png",
+    "normalMacroTexSize": 60,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_dirt_sandy_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.15,
+      0.5
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_clumpy_r.png",
+    "roughnessMacroTexSize": 60
+  },
+  "groundmodel_asphalt1-32744080-f7b2-4f74-b107-6dd6411df5f4": {
+    "name": "groundmodel_asphalt1-32744080-f7b2-4f74-b107-6dd6411df5f4",
+    "internalName": "groundmodel_asphalt1",
+    "class": "TerrainMaterial",
+    "persistentId": "32744080-f7b2-4f74-b107-6dd6411df5f4",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailTex": "/levels/utah2/art/terrains/t_asphalt_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_ao.png",
+    "aoMacroTexSize": 40,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.400000006,
+      0
+    ],
+    "baseColorDetailTex": "/levels/utah2/art/terrains/t_asphalt_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.075000003,
+      0.100000001
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_b.png",
+    "baseColorMacroTexSize": 40,
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "GROUNDMODEL_ASPHALT1",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/utah2/art/terrains/t_asphalt_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_h.png",
+    "heightMacroTexSize": 40,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.699999988,
+      0.200000003
+    ],
+    "normalDetailTex": "/levels/utah2/art/terrains/t_asphalt_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.100000001,
+      0.100000001
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_nm.png",
+    "normalMacroTexSize": 40,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.400000006,
+      0.200000003
+    ],
+    "roughnessDetailTex": "/levels/utah2/art/terrains/t_asphalt_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.200000003,
+      0.400000006
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_r.png",
+    "roughnessMacroTexSize": 40
+  },
+  "sand-ea13f929-1987-4f6e-9bab-13360c99206f": {
+    "name": "sand-ea13f929-1987-4f6e-9bab-13360c99206f",
+    "internalName": "sand",
+    "class": "TerrainMaterial",
+    "persistentId": "ea13f929-1987-4f6e-9bab-13360c99206f",
+    "aoBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_ao.png",
+    "aoBaseTexSize": 2048,
+    "aoDetailStrength": [
+      1,
+      1
+    ],
+    "aoDetailTex": "/levels/Utah2/art/terrains/t_sand_ao.png",
+    "aoDetailTexSize": 2,
+    "aoMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_ao.png",
+    "aoMacroTexSize": 60,
+    "baseColorBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_b.png",
+    "baseColorBaseTexSize": 2048,
+    "baseColorDetailStrength": [
+      0.35,
+      0.35
+    ],
+    "baseColorDetailTex": "/levels/Utah2/art/terrains/t_sand_b.png",
+    "baseColorDetailTexSize": 2,
+    "baseColorMacroStrength": [
+      0.07,
+      0.2
+    ],
+    "baseColorMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_b.png",
+    "baseColorMacroTexSize": 60,
+    "detailDistAtten": [
+      1,
+      1
+    ],
+    "detailDistances": [
+      0,
+      0,
+      50,
+      100
+    ],
+    "groundmodelName": "SAND",
+    "heightBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_h.png",
+    "heightBaseTexSize": 2048,
+    "heightDetailTex": "/levels/Utah2/art/terrains/t_sand_h.png",
+    "heightDetailTexSize": 2,
+    "heightMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_h.png",
+    "heightMacroTexSize": 60,
+    "macroDistAtten": [
+      0,
+      1
+    ],
+    "macroDistances": [
+      0,
+      10,
+      100,
+      3000
+    ],
+    "normalBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_nm.png",
+    "normalBaseTexSize": 2048,
+    "normalDetailStrength": [
+      0.7,
+      0
+    ],
+    "normalDetailTex": "/levels/Utah2/art/terrains/t_sand_nm.png",
+    "normalDetailTexSize": 2,
+    "normalMacroStrength": [
+      0.2,
+      0.1
+    ],
+    "normalMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_nm.png",
+    "normalMacroTexSize": 60,
+    "roughnessBaseTex": "/levels/Utah2/art/terrains/t_terrain_base_r.png",
+    "roughnessBaseTexSize": 2048,
+    "roughnessDetailStrength": [
+      0.3,
+      0.3
+    ],
+    "roughnessDetailTex": "/levels/Utah2/art/terrains/t_sand_r.png",
+    "roughnessDetailTexSize": 2,
+    "roughnessMacroStrength": [
+      0.1,
+      0.5
+    ],
+    "roughnessMacroTex": "/levels/Utah2/art/terrains/t_macro_holes_r.png",
+    "roughnessMacroTexSize": 60
+  }
+}
